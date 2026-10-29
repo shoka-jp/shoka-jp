@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="340" viewBox="0 0 1120 340" role="img" aria-labelledby="title desc">
+<title id="title">shoka — Automotive AI and open source</title>
+<desc id="desc">Building practical automotive tools and contributing to shared developer tools. Shizuoka, Japan.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1925"/><stop offset="1" stop-color="#102e36"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#72d5c0" stroke-opacity=".06"/></pattern></defs>
+<rect width="1120" height="340" rx="22" fill="url(#bg)"/>
+<rect width="1120" height="340" rx="22" fill="url(#grid)"/>
+<path d="M0 338H1120" stroke="#64e4be" stroke-width="4"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="48" y="55" fill="#73e5c4" font-size="16" letter-spacing="3">AUTOMOTIVE AI / OPEN SOURCE</text>
+<text x="44" y="146" fill="#f3f7f8" font-size="84" font-weight="700" letter-spacing="-4">shoka<tspan fill="#73e5c4">.</tspan></text>
+<text x="48" y="194" fill="#e2ebf0" font-size="27">Practical tools. Shared progress.</text>
+<text x="48" y="238" fill="#b5c9d2" font-size="19">Vehicle data · AI workflows · OSS contributions</text>
+<rect x="48" y="272" width="190" height="30" rx="15" fill="#203c45"/>
+<circle cx="66" cy="287" r="4" fill="#73e5c4"/>
+<text x="80" y="293" fill="#d7e7ec" font-size="14">SHIZUOKA, JAPAN</text>
+<g transform="translate(660 44)">
+<rect width="412" height="252" rx="18" fill="#0b1c27" stroke="#38535f"/>
+<circle cx="24" cy="25" r="4" fill="#73e5c4"/><circle cx="40" cy="25" r="4" fill="#4b6978"/><circle cx="56" cy="25" r="4" fill="#4b6978"/>
+<text x="388" y="30" text-anchor="end" fill="#93b5c3" font-size="13" letter-spacing="1">GARAGE / LAB</text>
+<path d="M58 128L75 99L128 90L162 66H248L285 95L335 111L345 143H65Z" fill="#16323d" stroke="#73e5c4" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M148 91L171 73H239L265 94Z" fill="#2b5661"/><circle cx="116" cy="142" r="20" fill="#0b1c27" stroke="#aacad3" stroke-width="3"/><circle cx="292" cy="142" r="20" fill="#0b1c27" stroke="#aacad3" stroke-width="3"/>
+<path d="M33 190H86L98 175L111 205L124 184L136 190H196" fill="none" stroke="#73e5c4" stroke-width="2"/>
+<text x="220" y="195" fill="#f3f7f8" font-size="20" font-family="DejaVu Sans Mono,monospace">data → tools</text>
+<text x="33" y="230" fill="#93b5c3" font-size="13" letter-spacing="1">BUILD · TEST · DOCUMENT · CONTRIBUTE</text>
+</g></g></svg>
