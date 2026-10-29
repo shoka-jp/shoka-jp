@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="250" viewBox="0 0 540 250" role="img" aria-labelledby="title desc">
+<title id="title">obd2-mcp — Vehicle data for AI assistants</title><desc id="desc">TypeScript MCP server with a built-in mock vehicle. Try it without hardware.</desc>
+<rect x="1" y="1" width="538" height="248" rx="18" fill="#0d202c" stroke="#36505e" stroke-width="2"/>
+<g font-family="DejaVu Sans,Arial,sans-serif"><rect x="28" y="25" width="106" height="27" rx="13" fill="#173f43"/><text x="81" y="44" text-anchor="middle" font-size="13" fill="#7feac9" letter-spacing="1">MCP SERVER</text>
+<text x="28" y="101" font-size="37" font-weight="700" fill="#f0f7fa">obd2-mcp</text>
+<text x="28" y="139" font-size="21" fill="#c2d4dd">Vehicle data for AI assistants.</text>
+<text x="28" y="170" font-size="17" fill="#93b2c2">Trouble codes · live sensors · freeze frame</text>
+<path d="M28 192H512" stroke="#36505e"/>
+<text x="28" y="224" font-size="16" fill="#73e5c4">TRY THE MOCK VEHICLE →</text><text x="512" y="224" text-anchor="end" font-size="13" fill="#a1bccb">TypeScript</text>
+<g fill="none" stroke="#73e5c4" stroke-width="2"><rect x="456" y="34" width="44" height="32" rx="6"/><path d="M467 34V26M478 34V26M489 34V26M467 66V74M478 66V74M489 66V74M466 50H474L479 42L484 57L489 50H494"/></g>
+</g></svg>
