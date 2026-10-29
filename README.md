@@ -32,12 +32,7 @@ The default connection is a simulated vehicle. See the [setup and safety notes](
 - **Contribute** documentation fixes, translations, or examples through [automotive-ai-skills](https://github.com/shoka-jp/automotive-ai-skills/blob/main/CONTRIBUTING.md).
 - **[Become a sponsor](https://github.com/sponsors/shoka-jp)** if these projects are useful to you and you would like to support my open-source work.
 
-## Other projects and contributions
-
-| Project | What it does |
-| --- | --- |
-| [PostOne docs](https://github.com/shoka-jp/PostOne-docs) | Public documentation for a social publishing and scheduling service. |
-| [SellOne docs](https://github.com/shoka-jp/SellOne-docs) | User documentation for a Windows app that helps prepare marketplace listings. |
+## Open-source contributions
 
 I also contribute documentation, reproducible examples, and focused improvements to other open-source projects:
 
