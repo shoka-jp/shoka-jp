@@ -15,11 +15,9 @@ Software engineer based in Shizuoka, Japan. My projects help you explore vehicle
 
 ### Try the mock vehicle
 
-With Claude Code installed, add the MCP server:
+Follow the source-build walkthrough to register the MCP server with Claude Code:
 
-```bash
-claude mcp add obd2 -- npx -y obd2-mcp
-```
+[Build from source and try the mock vehicle](https://github.com/shoka-jp/obd2-mcp/blob/main/docs/try-mock.md)
 
 Then ask: **"Read the mock vehicle's trouble codes and freeze frame. What should I check before replacing parts?"**
 
