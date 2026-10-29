@@ -27,6 +27,8 @@ The default connection is a simulated vehicle. See the [setup and safety notes](
 
 ## Follow, contribute, or support
 
+[What your sponsorship supports / 支援対象について](./SPONSORING.md)
+
 - **Follow** if you are interested in automotive AI, MCP tools, and practical open-source development.
 - **Try a project** and share reproducible feedback in its issues: what you tried, what happened, and what you expected. Remove VINs and other personal information from logs.
 - **Contribute** documentation fixes, translations, or examples through [automotive-ai-skills](https://github.com/shoka-jp/automotive-ai-skills/blob/main/CONTRIBUTING.md).
