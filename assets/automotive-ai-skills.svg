@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="250" viewBox="0 0 540 250" role="img" aria-labelledby="title desc">
+<title id="title">automotive-ai-skills — Structured automotive AI workflows</title><desc id="desc">16 skills for diagnostics, maintenance and used-car inspection. English and Japanese documentation.</desc>
+<rect x="1" y="1" width="538" height="248" rx="18" fill="#122033" stroke="#3b516e" stroke-width="2"/>
+<g font-family="DejaVu Sans,Arial,sans-serif"><rect x="28" y="25" width="106" height="27" rx="13" fill="#263957"/><text x="81" y="44" text-anchor="middle" font-size="13" fill="#a5c7ff" letter-spacing="1">AI SKILLS</text>
+<text x="28" y="101" font-size="32" font-weight="700" fill="#f0f7fa">automotive-ai-skills</text>
+<text x="28" y="139" font-size="21" fill="#c2d4dd">Structured automotive workflows.</text>
+<text x="28" y="170" font-size="17" fill="#a4b6ce">Diagnostics · maintenance · used-car checks</text>
+<path d="M28 192H512" stroke="#3b516e"/>
+<text x="28" y="224" font-size="16" fill="#a5c7ff">EXPLORE THE SKILLS →</text><text x="512" y="224" text-anchor="end" font-size="13" fill="#a4b6ce">EN / JA</text>
+<text x="493" y="62" text-anchor="end" font-size="40" font-weight="700" fill="#a5c7ff">16</text>
+</g></svg>
