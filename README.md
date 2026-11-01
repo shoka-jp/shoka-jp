@@ -1,7 +1,8 @@
 <img src="./assets/header.svg" width="100%" alt="shoka — Automotive AI and open source. Practical tools. Shared progress." />
 
 <p align="center">
-  <a href="https://github.com/shoka-jp/obd2-mcp/blob/main/docs/demo-results.md"><b>Try a demo</b></a> ·
+  <a href="https://shoka-jp.github.io/automotive-ai-skills/tools/vehicle-brief.ja.html?vehicle=nbox&amp;task=buy"><b>N-BOX buying check</b></a> ·
+  <a href="https://github.com/shoka-jp/obd2-mcp/blob/main/docs/demo-results.md"><b>OBD-II demo</b></a> ·
   <a href="#open-source-contributions"><b>OSS contributions</b></a> ·
   <a href="https://qiita.com/shoka-jp"><b>Qiita</b></a> ·
   <a href="https://github.com/sponsors/shoka-jp"><b>Sponsor</b></a>
@@ -21,6 +22,10 @@ I'm **shoka**, a software engineer in Shizuoka, Japan. I build tools that connec
 **[automotive-ai-skills](https://github.com/shoka-jp/automotive-ai-skills)** provides **20 structured AI workflows** for diagnostics, maintenance, used-car inspection, and more, with English and Japanese documentation.
 
 ### See it work
+
+**Buying a used N-BOX?** [Try the vehicle brief builder](https://shoka-jp.github.io/automotive-ai-skills/tools/vehicle-brief.ja.html?vehicle=nbox&task=buy) to organize questions and check references before a viewing. No sign-up or diagnostic hardware is required. The builder does not perform a diagnosis or determine recall eligibility.
+
+**N-BOXの中古車選びに：** [車種別チェックメーカーを試す](https://shoka-jp.github.io/automotive-ai-skills/tools/vehicle-brief.ja.html?vehicle=nbox&task=buy)。現車確認の質問や資料を整理できます。登録・診断機は不要です。
 
 The [reproducible mock demo](https://github.com/shoka-jp/obd2-mcp/blob/main/docs/demo-results.md) reads a stored **P0420**, its freeze frame, and current sensor values. It includes observed program output and a script you can run without an AI subscription. All data in that demo is simulated.
 
