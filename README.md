@@ -14,11 +14,11 @@ I'm **shoka**, a software engineer in Shizuoka, Japan. I build tools that connec
 ## What I'm building
 
 <a href="https://github.com/shoka-jp/obd2-mcp/blob/main/docs/demo-results.md"><img src="./assets/obd2-mcp.svg" width="420" alt="obd2-mcp — TypeScript MCP server for vehicle data. Try the mock vehicle without hardware." /></a>
-<a href="https://github.com/shoka-jp/automotive-ai-skills"><img src="./assets/automotive-ai-skills.svg" width="420" alt="automotive-ai-skills — 16 automotive AI workflows with English and Japanese documentation." /></a>
+<a href="https://github.com/shoka-jp/automotive-ai-skills"><img src="./assets/automotive-ai-skills.svg" width="420" alt="automotive-ai-skills — 20 automotive AI workflows with English and Japanese documentation." /></a>
 
 **[obd2-mcp](https://github.com/shoka-jp/obd2-mcp)** connects MCP clients to OBD-II trouble codes, live sensors, and freeze-frame data. The included mock vehicle lets you try the tools **without a car or adapter**.
 
-**[automotive-ai-skills](https://github.com/shoka-jp/automotive-ai-skills)** provides **16 structured AI workflows** for diagnostics, maintenance, used-car inspection, and more, with English and Japanese documentation.
+**[automotive-ai-skills](https://github.com/shoka-jp/automotive-ai-skills)** provides **20 structured AI workflows** for diagnostics, maintenance, used-car inspection, and more, with English and Japanese documentation.
 
 ### See it work
 
@@ -40,6 +40,8 @@ These are individual contributions, not maintainer roles. See the linked PRs for
 [All VS Code docs PRs](https://github.com/microsoft/vscode-docs/pulls?q=is%3Apr+author%3Ashoka-jp) · [All pytest PRs](https://github.com/pytest-dev/pytest/pulls?q=is%3Apr+author%3Ashoka-jp)
 
 ## Follow the work · Support the projects
+
+<a href="https://github.com/sponsors/shoka-jp"><img src="./assets/support-open-source.svg" width="720" alt="Support automotive open source — sponsor shoka on GitHub" /></a>
 
 **Follow [@shoka-jp](https://github.com/shoka-jp)** for automotive AI tools, practical examples, and open-source improvements. Tried a project? Reproducible feedback, documentation fixes, and translations are welcome.
 
