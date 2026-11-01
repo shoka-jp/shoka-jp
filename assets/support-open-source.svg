@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-labelledby="title desc">
+<title id="title">Support automotive open source</title>
+<desc id="desc">Help maintain vehicle data tools, practical examples, and accessible documentation. Sponsor shoka on GitHub.</desc>
+<rect x="1" y="1" width="898" height="198" rx="18" fill="#122033" stroke="#3b516e" stroke-width="2"/>
+<circle cx="72" cy="100" r="36" fill="#392b49"/>
+<path d="M72 120 C64 113 49 103 49 91 C49 79 64 75 72 86 C80 75 95 79 95 91 C95 103 80 113 72 120Z" fill="#fa8bbb"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="130" y="70" font-size="27" font-weight="700" fill="#f0f7fa">Support automotive open source</text>
+<text x="130" y="105" font-size="17" fill="#c2d4dd">Help maintain vehicle data tools, examples, and documentation.</text>
+<text x="130" y="145" font-size="16" font-weight="700" fill="#ffadd2">SPONSOR SHOKA ON GITHUB →</text>
+</g></svg>
