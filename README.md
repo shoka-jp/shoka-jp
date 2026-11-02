@@ -29,7 +29,7 @@ I'm **shoka**, a software engineer in Shizuoka, Japan. I build tools that connec
 
 The [reproducible mock demo](https://github.com/shoka-jp/obd2-mcp/blob/main/docs/demo-results.md) reads a stored **P0420**, its freeze frame, and current sensor values. It includes observed program output and a script you can run without an AI subscription. All data in that demo is simulated.
 
-→ **[Run the demo / 実行結果と試し方](https://github.com/shoka-jp/obd2-mcp/blob/main/docs/demo-results.md)**
+→ **[ブラウザーで模擬データを見る（日本語・インストール不要）](https://shoka-jp.github.io/automotive-ai-skills/tools/obd2-preview.ja.html)** · **[Run the demo from source / 実行結果と試し方](https://github.com/shoka-jp/obd2-mcp/blob/main/docs/demo-results.md)**
 
 ## Open-source contributions
 
