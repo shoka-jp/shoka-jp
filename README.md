@@ -35,10 +35,11 @@ The [reproducible mock demo](https://github.com/shoka-jp/obd2-mcp/blob/main/docs
 
 I work on small, verifiable improvements: understanding the issue, checking for existing work, and validating the change.
 
-| Project | Contribution | Status checked 2026-10-29 |
+| Project | Contribution | Status checked 2026-11-02 |
 | --- | --- | --- |
 | **VS Code documentation** | [Corrected wording in the settings UX guidelines — #10552](https://github.com/microsoft/vscode-docs/pull/10552) | **Merged** |
 | **pytest** | [Documented platform-conditional warning filters, with a tested example — #15274](https://github.com/pytest-dev/pytest/pull/15274) | **Open PR · not yet merged** |
+| **MCP server catalog** | [Proposed adding obd2-mcp to the catalog — #602](https://github.com/mcpHQ/awesome-mcp-servers/pull/602) | **Open PR · not yet merged** |
 
 These are individual contributions, not maintainer roles. See the linked PRs for current status, validation details, and disclosed AI assistance.
 
@@ -55,7 +56,7 @@ If the projects are useful to you, **[sponsor my open-source work](https://githu
 ## 日本語
 
 - **作っているもの：** [obd2-mcp](https://github.com/shoka-jp/obd2-mcp/blob/main/README.ja.md)で車両データをAIにつなぎ、[automotive-ai-skills](https://github.com/shoka-jp/automotive-ai-skills/blob/main/README.ja.md)で診断・整備・中古車チェックなどの対話を整理しています。
-- **OSSへの貢献：** VS Codeの設定ガイド修正はマージ済み。pytestには、条件付き警告フィルターの説明を提案しています（2026-10-29確認、未マージ）。
+- **OSSへの貢献：** VS Codeの設定ガイド修正はマージ済み。pytestの警告フィルター説明とMCPサーバー一覧への掲載を提案中です（2026-11-02確認、いずれも未マージ）。
 - **まず試す：** [車・アダプタ・AIの契約なしで試せるモックデモ](https://github.com/shoka-jp/obd2-mcp/blob/main/docs/demo-results.md)。実車を扱う前に、各プロジェクトの安全上の注意と制約も確認してください。
 - **活動を応援：** フォロー、使ってみた感想、翻訳・説明の修正を歓迎します。[スポンサーによるご支援](https://github.com/sponsors/shoka-jp)も受け付けています。
 
