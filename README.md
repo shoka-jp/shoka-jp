@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://shoka-jp.github.io/automotive-ai-skills/tools/vehicle-brief.html?vehicle=nbox&amp;task=buy"><b>N-BOX buying check</b></a> ·
   <a href="https://shoka-jp.github.io/automotive-ai-skills/tools/obd2-preview.html"><b>OBD-II browser demo</b></a> ·
+  <a href="#contribute"><b>Contribute / 参加</b></a> ·
   <a href="#open-source-contributions"><b>OSS contributions</b></a> ·
   <a href="https://qiita.com/shoka-jp"><b>Qiita</b></a> ·
   <a href="https://github.com/sponsors/shoka-jp"><b>Sponsor</b></a>
@@ -20,6 +21,15 @@ I'm **shoka**, a software engineer in Shizuoka, Japan. I build tools that connec
 **[obd2-mcp](https://github.com/shoka-jp/obd2-mcp)** connects MCP clients to OBD-II trouble codes, live sensors, and freeze-frame data. The included mock vehicle lets you try the tools **without a car or adapter**.
 
 **[automotive-ai-skills](https://github.com/shoka-jp/automotive-ai-skills)** provides **20 structured AI workflows** for diagnostics, maintenance, used-car inspection, and more, with English and Japanese documentation.
+
+### Contribute
+
+Questions, translations, documentation and code are welcome. Selected tasks use simulated data and need no car. 車やプログラミング経験がなくても、感想や説明の改善で参加できます。
+
+- **Automotive AI Skills:** [first tasks](https://github.com/shoka-jp/automotive-ai-skills/contribute) · [share a question or first-use feedback](https://github.com/shoka-jp/automotive-ai-skills/issues/new?template=first-experience.yml)
+- **obd2-mcp:** [first tasks](https://github.com/shoka-jp/obd2-mcp/contribute) · [share a question or first-use feedback](https://github.com/shoka-jp/obd2-mcp/issues/new?template=first-experience.yml)
+
+Feedback opens a public GitHub issue and requires an account. Please leave out VINs and personal information. 感想は公開されるため、車台番号や個人情報は記入しないでください。
 
 ### See it work
 
