@@ -18,7 +18,7 @@ I'm **shoka**, a software engineer in Shizuoka, Japan. I build tools that connec
 <a href="https://shoka-jp.github.io/automotive-ai-skills/tools/obd2-preview.html"><img src="./assets/obd2-mcp.svg" width="420" alt="obd2-mcp — TypeScript MCP server for vehicle data. Explore simulated vehicle data in your browser." /></a>
 <a href="https://github.com/shoka-jp/automotive-ai-skills"><img src="./assets/automotive-ai-skills.svg" width="420" alt="automotive-ai-skills — 20 automotive AI workflows with English and Japanese documentation." /></a>
 
-**[obd2-mcp](https://github.com/shoka-jp/obd2-mcp)** connects MCP clients to OBD-II trouble codes, live sensors, and freeze-frame data. The included mock vehicle lets you try the tools **without a car or adapter**. Since [v0.4.0](https://github.com/shoka-jp/obd2-mcp/releases/tag/v0.4.0), Claude Desktop users can [install it as a one-file extension](https://github.com/shoka-jp/obd2-mcp#claude-desktop-install-as-an-extension).
+**[obd2-mcp](https://github.com/shoka-jp/obd2-mcp)** connects MCP clients to OBD-II trouble codes, live sensors, and freeze-frame data. The included mock vehicle lets you try the tools **without a car or adapter**. Claude Desktop users can [install it as a one-file extension](https://github.com/shoka-jp/obd2-mcp#claude-desktop-install-as-an-extension). Since [v0.6.0](https://github.com/shoka-jp/obd2-mcp/releases/tag/v0.6.0), you can connect a real adapter just by asking Claude, without knowing a port name, and a [guided used-car check](https://github.com/shoka-jp/obd2-mcp/blob/main/docs/used-car-check.md) helps spot recently cleared trouble codes.
 
 **[automotive-ai-skills](https://github.com/shoka-jp/automotive-ai-skills)** provides **20 structured AI workflows** for diagnostics, maintenance, used-car inspection, and more, with English and Japanese documentation.
 
@@ -28,6 +28,7 @@ Questions, translations, documentation and code are welcome. Selected tasks use 
 
 - **Automotive AI Skills:** [first tasks](https://github.com/shoka-jp/automotive-ai-skills/contribute) · [share a question or first-use feedback](https://github.com/shoka-jp/automotive-ai-skills/issues/new?template=first-experience.yml)
 - **obd2-mcp:** [first tasks](https://github.com/shoka-jp/obd2-mcp/contribute) · [share a question or first-use feedback](https://github.com/shoka-jp/obd2-mcp/issues/new?template=first-experience.yml)
+- **Have an ELM327 adapter and a car?** [Try connecting by asking Claude and report how it went](https://github.com/shoka-jp/obd2-mcp/issues/86). Failures help as much as successes. ELM327アダプタをお持ちの方は、実機での結果を教えてください。
 
 Feedback opens a public GitHub issue and requires an account. Please leave out VINs and personal information. 感想は公開されるため、車台番号や個人情報は記入しないでください。
 
@@ -45,7 +46,7 @@ The [reproducible mock demo](https://github.com/shoka-jp/obd2-mcp/blob/main/docs
 
 I work on small, verifiable improvements: understanding the issue, checking for existing work, and validating the change.
 
-| Project | Contribution | Status checked 2026-11-26 |
+| Project | Contribution | Status checked 2026-11-27 |
 | --- | --- | --- |
 | **VS Code documentation** | [Settings UX wording — #10552](https://github.com/microsoft/vscode-docs/pull/10552) · [Screenshot alt text — #10569](https://github.com/microsoft/vscode-docs/pull/10569) | **Both merged** |
 | **VS Code** | [Preserve MIME parameter case when values contain slashes — #345702](https://github.com/microsoft/vscode/pull/345702) | **Open PR · not yet merged** |
@@ -66,8 +67,8 @@ If the projects are useful to you, **[sponsor my open-source work](https://githu
 
 ## 日本語
 
-- **作っているもの：** [obd2-mcp](https://github.com/shoka-jp/obd2-mcp/blob/main/README.ja.md)で車両データをAIにつなぎ、[automotive-ai-skills](https://github.com/shoka-jp/automotive-ai-skills/blob/main/README.ja.md)で診断・整備・中古車チェックなどの対話を整理しています。obd2-mcpはv0.4.0から、Claude Desktopに[1ファイルの拡張機能として追加](https://github.com/shoka-jp/obd2-mcp/blob/main/README.ja.md)できます。
-- **OSSへの貢献：** VS Codeの設定ガイド・画像代替テキスト修正と、MCPHQのサーバーカタログへのobd2-mcp掲載が採用済みです。pytestの警告フィルター説明と、VS Code本体のMIMEタイプ処理の修正は提案中です（2026-11-26確認、未マージ）。
+- **作っているもの：** [obd2-mcp](https://github.com/shoka-jp/obd2-mcp/blob/main/README.ja.md)で車両データをAIにつなぎ、[automotive-ai-skills](https://github.com/shoka-jp/automotive-ai-skills/blob/main/README.ja.md)で診断・整備・中古車チェックなどの対話を整理しています。obd2-mcpはClaude Desktopに[1ファイルの拡張機能として追加](https://github.com/shoka-jp/obd2-mcp/blob/main/README.ja.md)できます。v0.6.0からは、ポート名を知らなくてもClaudeに頼むだけで実際のアダプタにつなげ、[中古車チェック](https://github.com/shoka-jp/obd2-mcp/blob/main/docs/used-car-check.md#日本語)で最近消去された故障コードの手がかりを確認できます。
+- **OSSへの貢献：** VS Codeの設定ガイド・画像代替テキスト修正と、MCPHQのサーバーカタログへのobd2-mcp掲載が採用済みです。pytestの警告フィルター説明と、VS Code本体のMIMEタイプ処理の修正は提案中です（2026-11-27確認、未マージ）。
 - **まず試す：** [インストール不要の模擬データ体験](https://shoka-jp.github.io/automotive-ai-skills/tools/obd2-preview.ja.html)。実車を扱う前に、各プロジェクトの安全上の注意と制約も確認してください。
 - **活動を応援：** フォロー、使ってみた感想、翻訳・説明の修正を歓迎します。[スポンサーによるご支援](https://github.com/sponsors/shoka-jp)も受け付けています。
 
